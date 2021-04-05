@@ -52,6 +52,6 @@ Netflix-Clone-Coding
  # 📊 진행상황  
  1. [Showcase Part - HTML/CSS Layout Compelte](https://www.notion.so/NETFLIX-CLONE-CODING-1-1f5678d104674629810d80e0137ca302)
  2. Layout 정리
- <img src="/img/layout1.png" width="100%" height="300px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
- <img src="/img/layout2.png" width="100%" height="300px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
- <img src="/img/layout3.png" width="100%" height="300px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
+ <img src="/img/layout1.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
+ <img src="/img/layout2.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
+ <img src="/img/layout3.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
