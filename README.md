@@ -44,14 +44,16 @@ Netflix-Clone-Coding
  
 3. 최종 결과
 
-<img src="/img/finalimg_1.png" width="100%" height="300px" title="px(픽셀) 크기 설정" alt="최종결과1"></img><br/>
-<img src="/img/finalimg_2.png" width="100%" height="300px" title="px(픽셀) 크기 설정" alt="최종결과2"></img><br/>
+<img src="/img/finalimg_1.png" width="100%" height="500px" title="px(픽셀) 크기 설정" alt="최종결과1"></img><br/>
+<img src="/img/finalimg_2.png" width="100%" height="500px" title="px(픽셀) 크기 설정" alt="최종결과2"></img><br/>
 
  * * *    
  * * *
  # 📊 진행상황  
  1. [Showcase Part - HTML/CSS Layout Compelte](https://www.notion.so/NETFLIX-CLONE-CODING-1-1f5678d104674629810d80e0137ca302)
- 2. Layout 정리
+ 2. Layout 정리 (netflix.pptx 파일 참고)   
+      
+      
  <img src="/img/layout1.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
  <img src="/img/layout2.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
  <img src="/img/layout3.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
