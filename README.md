@@ -57,3 +57,4 @@ Netflix-Clone-Coding
  <img src="/img/layout1.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
  <img src="/img/layout2.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
  <img src="/img/layout3.JPG" width="100%" height="600px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
+ <img src="/img/layout04.png" width="100%" height="400px" title="px(픽셀) 크기 설정" alt="layout"></img><br/>
