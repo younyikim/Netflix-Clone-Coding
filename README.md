@@ -43,7 +43,8 @@ Netflix-Clone-Coding
  * * *       
  
 3. 최종 결과
-
+      
+✔ [[최종 결과 보러가기](https://younyikim.github.io/Netflix-Clone-Coding/index.html)]
 <img src="/img/finalimg_1.png" width="100%" height="500px" title="px(픽셀) 크기 설정" alt="최종결과1"></img><br/>
 <img src="/img/finalimg_2.png" width="100%" height="500px" title="px(픽셀) 크기 설정" alt="최종결과2"></img><br/>
 
