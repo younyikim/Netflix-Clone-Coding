@@ -146,6 +146,17 @@ img {
     background: #000;
     color: #fff;
 }
+
+/* Hide content initialy */
+#tab-1-content,
+#tab-2-content,
+#tab-3-content {
+    display: none;
+}
+
+.show {
+    display: block !important;
+}
 #tab-1-content .tab-1-content-inner {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -288,6 +299,9 @@ img {
     text-transform: uppercase;
 }
 
+.btn-icon {
+    margin: 1rem;
+}
 @media(max-width: 960px) {
     .showcase {
         height: 70vh;
